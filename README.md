@@ -1,6 +1,6 @@
 ### Olá!! eu sou a Talia
 
-<p>Curiosa e extemamente focada.</p>
+<p>Curiosa e extremamente focada.</p>
 <p>Fascinada por react e next.js.</p>
 
  <div>
