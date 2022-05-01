@@ -1,8 +1,5 @@
 ### Olá!! eu sou a Talia
 
-<p>Curiosa e extremamente focada.</p>
-<p>Fascinada por react e next.js.</p>
-
  <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taliaeduarda&layout=compact&langs_count=7&theme=dracula"/>
